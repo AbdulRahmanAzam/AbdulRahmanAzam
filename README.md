@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **SFML and typescript**
 
-- 💬 Ask me about **My Projects, my learning journey and any help regarding your coding journey**
+- 💬 Ask me about **My Projects, my learning journey, and any help regarding coding problems**
 
 - 📫 How to reach me **azamabdulrahman930@gmail.com**
 
