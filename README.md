@@ -3,7 +3,7 @@
 
 **AbdulRahmanAzam/AbdulRahmanAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Game+Developer;AI+and+Blockchain+are+Love+%3C3;Entrepreneur)](https://git.io/typing-svg)
+<div align='center'><a href="https://git.io/typing-svg">< img align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Game+Developer;AI+and+Blockchain+are+Love+%3C3;Entrepreneur" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Abdul Rahman Azam</h1>
 <h3 align="center">A passionate AI Enthusiast</h3>
