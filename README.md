@@ -2,8 +2,7 @@
 <!--
 
 **AbdulRahmanAzam/AbdulRahmanAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---><div align='center'><a href="https://git.io/typing-svg"><img align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&random=false&width=435&lines=Game+Developer;AI+and+Blockchain+are+Love+%3C3;Entrepreneur" alt="Typing SVG" /></a>
-
+-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=600&color=279FD2&center=true&vCenter=true&random=false&width=435&lines=Game+Developer;AI+and+Blockchain+are+Love+%3C3;Entrepreneur" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Abdul Rahman Azam</h1>
