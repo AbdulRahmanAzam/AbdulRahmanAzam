@@ -3,6 +3,8 @@
 
 **AbdulRahmanAzam/AbdulRahmanAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<!--
 <div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=279FD2&center=true&vCenter=true&random=false&width=435&lines=Crypto+Trader;AI+and+Blockchain+are+Love+%3C3;Entrepreneur" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Abdul Rahman Azam</h1>
@@ -35,3 +37,64 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanazam&show_icons=true&locale=en" alt="abdulrahmanazam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanazam&" alt="abdulrahmanazam" /></p>
+-->
+
+<div align='center'>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=279FD2&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;Machine+Learning+Explorer;Generative+AI+Enthusiast;Entrepreneur" alt="Typing SVG" />
+  </a>
+</div>
+
+<h1 align="center">Hi 👋, I'm Abdul Rahman Azam</h1>
+<h3 align="center">AI Student | Full-Stack Developer | Entrepreneur</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanazam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanazam" /> </p>
+
+---
+
+### 🔎 About Me  
+- 🎓 Pursuing **Bachelors in Artificial Intelligence** at FAST-NUCES, Karachi.  
+- 🌱 Currently exploring **Generative AI, MERN stack, and Applied Machine Learning**.  
+- 🧑‍💻 Building projects that bridge **real-world problems with AI & full-stack solutions**.  
+- 📊 Solved **200+ LeetCode problems**, sharpening DSA & problem-solving skills.  
+- 🚀 Founder of **PROSBIX**, providing services in **AI, Web Development, and Design**.  
+- 🎯 Preparing for **Master’s in AI/ML abroad**, with focus on **research + industry impact**.  
+- 💬 Ask me about **MERN, AI/ML, Generative AI, and project building**.  
+- 📫 Reach me at: **azamabdulrahman930@gmail.com**  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/abdulrahmanazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/abdurrehman_azam_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@moderntechnobrothers1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/abdulrahmanazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanazam&show_icons=true&locale=en&layout=compact" alt="abdulrahmanazam" /></p>  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanazam&show_icons=true&locale=en" alt="abdulrahmanazam" /></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanazam&" alt="abdulrahmanazam" /></p>  
+
