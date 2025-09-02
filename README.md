@@ -56,15 +56,15 @@
 
 ### 🔎 About Me  
 - 🎓 Pursuing **Bachelors in Artificial Intelligence** at FAST-NUCES, Karachi.
-- 
+  
 - 🌱 Currently exploring **Generative AI, MERN stack, and Applied Machine Learning**.
-- 
+
 - 🧑‍💻 Building projects that bridge **real-world problems with AI & full-stack solutions**.
-- 
+  
 - 📊 Solved **300+ LeetCode problems**, sharpening DSA & problem-solving skills.
-- 
+  
 - 🎯 Preparing for **Master’s in AI/ML abroad**, with focus on **research + industry impact**.
-- 
+  
 - 📫 Reach me at: **azamabdulrahman930@gmail.com**  
 
 ---
