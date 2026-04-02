@@ -49,7 +49,7 @@
 
 ## 🌟 Featured Projects
 
-| Project | What it does | Stack | Links |
+| Project | Description | Stack | Links |
 |---|---|---|---|
 | **personality-traits-ontology** | Full-stack Big Five personality research platform with ontology-driven knowledge and interactive visualizations. | Python, React, Full-Stack | [Repo](https://github.com/AbdulRahmanAzam/personality-traits-ontology) • [Live](https://score-me-self.vercel.app) |
 | **datathon-genai-competition** | Generative AI competition project with a deployed storytelling experience. | JavaScript, AI | [Repo](https://github.com/AbdulRahmanAzam/datathon-genai-competition) • [Live](https://narrative-verse.vercel.app) |
