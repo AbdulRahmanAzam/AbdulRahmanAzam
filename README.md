@@ -1,8 +1,11 @@
+<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/9b96d392-62fc-4388-af0b-4a92ed3b6da1" />
+
+
 <h1 align="center">Hi, I'm Abdul Rahman Azam 👋</h1>
 
 <p align="center">
   <strong>Artificial Intelligence Undergraduate @ FAST-NUCES (Class of 2027)</strong><br />
-  <strong>MERN Full-Stack Developer • Applied Machine Learning Builder</strong>
+  <strong>AI Agents and Automation Engineer • MERN Full-Stack Developer</strong>
 </p>
 
 <p align="center">
