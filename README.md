@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E1065,25:4C1D95,55:6D28D9,80:7C3AED,100:A855F7&height=290&section=header&text=Abdul%20Rahman%20Azam&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Agents%20%7C%20MCP%20Servers%20%7C%20Automation%20%7C%20Full-Stack%20Web&descSize=19&descAlignY=60&descAlign=50"/>
+
 
 <h1 align="center">Abdul Rahman Azam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
 
@@ -145,18 +145,9 @@ I take a product-first approach: ship working AI-integrated products with clean 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanazam&show_icons=true&theme=transparent&title_color=A855F7&text_color=C4B5FD&icon_color=7C3AED&border_color=6D28D9&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanazam&layout=compact&theme=transparent&title_color=A855F7&text_color=C4B5FD&border_color=6D28D9&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahmanazam&theme=transparent&hide_border=false&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=C4B5FD&dates=C4B5FD&sideNums=A855F7&currStreakNum=7C3AED&border=6D28D9" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanazam&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanazam&bg_color=0D1117&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=false&border_color=6D28D9" alt="Activity Graph"/>
