@@ -107,10 +107,10 @@
 ## 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5E2BFF,50:8A2BE2,100:B026FF&height=120&section=header&text=Work%20till%20all%20of%20your%20Models%20Limit%20exceeded...&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Quote Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5E2BFF,50:8A2BE2,100:B026FF&height=120&section=header&text=Work%20till%20all%20of%20your%20model%20limits%20are%20exceeded...&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Quote Banner" />
 </p>
 
-<p align="center"><i>"Work till all of your Models Limit exceeded..." — Abdul Rahman Azam</i></p>
+<p align="center"><i>"Work till all of your model limits are exceeded..." — Abdul Rahman Azam</i></p>
 
 ## 🤝 Open To
 
