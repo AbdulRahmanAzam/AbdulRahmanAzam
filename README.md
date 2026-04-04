@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=250&section=header&text=Abdul%20Rahman%20Azam&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20Automation%20%7C%20Full-Stack&descSize=20&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=250&section=header&text=Abdul%20Rahman%20Azam&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20Agents%20%7C%20Automation%20%7C%20MCP%20Servers&descSize=20&descAlignY=58&descAlign=50" />
 
 <h1 align="center">Abdul Rahman Azam 👋</h1>
 
@@ -29,8 +29,7 @@
 - 🎓 AI undergraduate focused on practical, product-first engineering  
 - 🤖 Building AI-integrated products, agents, and automation workflows  
 - 🌐 MERN full-stack developer with deployment-first mindset  
-- 🧠 Solved **300+ LeetCode problems** in DSA  
-- 🟣 Designing my profile and personal brand in a purple-first style
+- 🧠 Solved **300+ LeetCode problems** in DSA 
 
 ## 🎯 Current Focus
 
@@ -73,7 +72,6 @@
 | **datathon-genai-competition** | Generative AI storytelling experience with model-powered content generation pipeline. | AI, GenAI, JavaScript | [Repo](https://github.com/AbdulRahmanAzam/datathon-genai-competition) • [Live](https://narrative-verse.vercel.app) |
 | **vs-code-extension-token-tracker** | Developer automation extension for token tracking and workflow optimization. | Automation, Agents, JavaScript | [Repo](https://github.com/AbdulRahmanAzam/vs-code-extension-token-tracker) • [Live](https://tokentracker-ten.vercel.app) |
 | **CivicLens** | Full-stack civic-focused web app with usable UI and deployment-first execution. | Full-Stack, JavaScript | [Repo](https://github.com/AbdulRahmanAzam/CivicLens) • [Live](https://civiclensfast.vercel.app) |
-| **portfolio** | Personal portfolio to present AI, agentic, automation, and full-stack work. | Web, Branding, Full-Stack | [Repo](https://github.com/AbdulRahmanAzam/portfolio) • [Live](https://abdulrahmanazam.vercel.app) |
 
 ## 📈 GitHub Activity
 
