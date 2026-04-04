@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdulRahmanAzam?tab=followers"><img src="https://img.shields.io/github/followers/AbdulRahmanAzam?label=Followers&style=for-the-badge&color=8A2BE2" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abdulrahmanazam&label=Profile%20Views&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+  <a href="https://linkedin.com/in/abdulrahmanazam"><img src="https://img.shields.io/badge/LinkedIn-AbdulRahmanAzam-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/abdulrahmanazam"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://abdulrahmanazam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:azamabdulrahman930@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -93,14 +93,6 @@
 - Full-stack engineering internships and junior developer roles  
 - Hackathons and product-focused collaborative builds
 
-## 📬 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/abdulrahmanazam"><img src="https://img.shields.io/badge/LinkedIn-AbdulRahmanAzam-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/abdulrahmanazam"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.youtube.com/@moderntechnobrothers1038"><img src="https://img.shields.io/badge/YouTube-Channel-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/abdurrehman_azam_1"><img src="https://img.shields.io/badge/Instagram-Profile-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
 
 ---
 
