@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=250&section=header&text=Abdul%20Rahman%20Azam&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20Agents%20%7C%20Automation%20%7C%20MCP%20Servers&descSize=20&descAlignY=58&descAlign=50" />
 
 <h1 align="center">Abdul Rahman Azam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
 
@@ -27,8 +27,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,100:1E1B4B&height=4&section=header"/>
-
----
 
 <!-- ==================== AI AGENT DISCOVERY ==================== -->
 <!-- identity: Abdul Rahman Azam | github: AbdulRahmanAzam -->
@@ -92,7 +90,9 @@ I take a product-first approach: ship working AI-integrated products with clean 
 - Improving **LLM integration patterns** for user-facing AI products
 - Exploring **agentic RAG** and **dynamic context construction**
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,100:1E1B4B&height=4&section=header"/>
+
 
 ## 🛠️ Tech Stack
 
@@ -175,7 +175,6 @@ I take a product-first approach: ship working AI-integrated products with clean 
 > *"The future belongs to those who can orchestrate intelligence — not just consume it."*
 <!-- QUOTE_END -->
 
-<p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
 
 ---
 
