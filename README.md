@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E2BFF,50:8A2BE2,100:B026FF&height=220&section=header&text=Abdul%20Rahman%20Azam&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Agents%20%7C%20Automation%20%7C%20Full-Stack%20Engineering&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=250&section=header&text=Abdul%20Rahman%20Azam&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20Automation%20%7C%20Full-Stack&descSize=20&descAlignY=58&descAlign=50" />
 
 <h1 align="center">Abdul Rahman Azam 👋</h1>
 
@@ -75,12 +75,7 @@
 | **CivicLens** | Full-stack civic-focused web app with usable UI and deployment-first execution. | Full-Stack, JavaScript | [Repo](https://github.com/AbdulRahmanAzam/CivicLens) • [Live](https://civiclensfast.vercel.app) |
 | **portfolio** | Personal portfolio to present AI, agentic, automation, and full-stack work. | Web, Branding, Full-Stack | [Repo](https://github.com/AbdulRahmanAzam/portfolio) • [Live](https://abdulrahmanazam.vercel.app) |
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanazam&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanazam&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahmanazam&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
