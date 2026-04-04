@@ -87,13 +87,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanazam&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRahmanAzam/AbdulRahmanAzam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRahmanAzam/AbdulRahmanAzam/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AbdulRahmanAzam/AbdulRahmanAzam/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+way+to+predict+the+future+is+to+build+it&author=Alan+Kay" alt="Quote of the Day" />
+</p>
+
+> _"Agents don't just answer — they act, adapt, and automate."_
+
 ## 🤝 Open To
 
 - AI/ML internships and research collaborations  
 - Full-stack engineering internships and junior developer roles  
 - Hackathons and product-focused collaborative builds
 
-
 ---
 
-<p align="center"><i>Thanks for visiting — let’s build something meaningful 🚀</i></p>
+<p align="center">
+  <a href="https://linkedin.com/in/abdulrahmanazam">
+    <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fabdulrahmanazam-8A2BE2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+<p align="center"><i>Thanks for visiting — let's build something meaningful 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:9B30FF&height=100&section=footer"/>
