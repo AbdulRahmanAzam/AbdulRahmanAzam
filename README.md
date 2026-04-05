@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=250&section=header&text=Abdul%20Rahman%20Azam&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20Agents%20%7C%20Automation%20%7C%20MCP%20Servers&descSize=20&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A855F7,100:C026D3&height=220&section=header&text=Abdul%20Rahman%20Azam&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20Agents%20%7C%20Automation%20%7C%20MCP%20Servers&descSize=20&descAlignY=56&descAlign=50" />
 
 <h1 align="center">Abdul Rahman Azam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
 
@@ -42,7 +42,7 @@ I'm an **AI undergraduate at FAST-NUCES (Class of 2027)** building real-world **
 
 I take a product-first approach: ship working AI-integrated products with clean backend logic, modular architecture, and measurable real-world outcomes.
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,100:1E1B4B&height=4&section=header"/>
 
 ## ✨ Profile Snapshot
 
@@ -130,7 +130,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ## 💬 AI Quote of the Day
 
-<blockquote style="color: purple; font-style: italic; border-left: 3px solid purple; padding-left: 10px;">
+<blockquote style="color: #9b30ff; font-style: italic; border-left: 3px solid #9b30ff; padding-left: 10px;">
   "Work until your model limit is exhausted." ~Abdul Rahman Azam
 </blockquote>
 
@@ -181,7 +181,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 - 🌐 **Full-stack engineering** internships and junior developer roles
 - 🧪 **Hackathons** and product-focused collaborative builds
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,100:1E1B4B&height=4&section=header"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulrahmanazam">
