@@ -130,9 +130,9 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ## 💬 AI Quote of the Day
 
-<!-- QUOTE_START -->
-> *"The future belongs to those who can orchestrate intelligence — not just consume it."*
-<!-- QUOTE_END -->
+<blockquote style="color: purple; font-style: italic; border-left: 3px solid purple; padding-left: 10px;">
+  "Work until your model limit is exhausted." ~Abdul Rahman Azam
+</blockquote>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,50:6D28D9,100:7C3AED&height=3&section=header"/>
 
@@ -150,27 +150,27 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ## 🤖 AI & Agent Engineering
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Agent Architectures**
-- 🔄 ReAct loops & tool-calling agents
-- 🧩 Multi-agent orchestration & tasks
-- 📡 MCP servers & protocol integration  
-- 🔗 LLM calls & structured outputs  
-
-</td>
-<td valign="top" width="51%">
-
-**Integration Patterns**
-- 🗃️ RAG pipelines (vector DB & retrieval)  
-- 🛠️ Tool-augmented LLM workflows  
-- 🔁 Agentic automation (n8n · scripts)  
-- 🧠 Context & prompt engineering  
-
-</td>
-</tr>
+<table style="width:100%; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Agent Architectures</strong>
+      <ul style="list-style:none; padding:0; margin:0;">
+        <li style="white-space: nowrap;">🔄 ReAct loops & tool-calling agents</li>
+        <li style="white-space: nowrap;">🧩 Multi-agent orchestration & tasks</li>
+        <li style="white-space: nowrap;">📡 MCP servers & protocol integration</li>
+        <li style="white-space: nowrap;">🔗 LLM calls & structured outputs</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Integration Patterns</strong>
+      <ul style="list-style:none; padding:0; margin:0;">
+        <li style="white-space: nowrap;">🗃️ RAG pipelines (vector DB & retrieval)</li>
+        <li style="white-space: nowrap;">🛠️ Tool-augmented LLM workflows</li>
+        <li style="white-space: nowrap;">🔁 Agentic automation (n8n · scripts)</li>
+        <li style="white-space: nowrap;">🧠 Context & prompt engineering</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
