@@ -56,38 +56,10 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ---
 
-## 🤖 AI & Agent Engineering
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Agent Architectures**
-- 🔄 ReAct loops & autonomous tool-calling agents
-- 🧩 Multi-agent task decomposition & orchestration
-- 📡 MCP Server construction & protocol integration
-- 🔗 LLM function-calling & structured output design
-
-</td>
-<td valign="top" width="50%">
-
-**Integration Patterns**
-- 🗃️ RAG pipelines with vector stores & retrieval
-- 🛠️ Tool-augmented LLM workflows & chaining
-- 🔁 Agentic automation (n8n · custom scripts)
-- 🧠 Context engineering & prompt architecture
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 Current Focus
 
 - Architecting **MCP-enabled developer tooling** and workflow automation
 - Building **production-grade multi-agent pipelines** with real task completion
-- Improving **LLM integration patterns** for user-facing AI products
 - Exploring **agentic RAG** and **dynamic context construction**
 
 
@@ -153,7 +125,16 @@ I take a product-first approach: ship working AI-integrated products with clean 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanazam&bg_color=0D1117&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=false&border_color=6D28D9" alt="Activity Graph"/>
 </p>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,50:6D28D9,100:7C3AED&height=3&section=header"/>
+
+## 💬 AI Quote of the Day
+
+<!-- QUOTE_START -->
+> *"The future belongs to those who can orchestrate intelligence — not just consume it."*
+<!-- QUOTE_END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,50:6D28D9,100:7C3AED&height=3&section=header"/>
 
 ## 🐍 Contribution Snake
 
@@ -167,14 +148,30 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ---
 
-## 💬 AI Quote of the Day
+## 🤖 AI & Agent Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,50:6D28D9,100:7C3AED&height=3&section=header"/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<!-- QUOTE_START -->
-> *"The future belongs to those who can orchestrate intelligence — not just consume it."*
-<!-- QUOTE_END -->
+**Agent Architectures**
+- 🔄 ReAct loops & tool-calling agents
+- 🧩 Multi-agent orchestration & tasks
+- 📡 MCP servers & protocol integration  
+- 🔗 LLM calls & structured outputs  
 
+</td>
+<td valign="top" width="51%">
+
+**Integration Patterns**
+- 🗃️ RAG pipelines (vector DB & retrieval)  
+- 🛠️ Tool-augmented LLM workflows  
+- 🔁 Agentic automation (n8n · scripts)  
+- 🧠 Context & prompt engineering  
+
+</td>
+</tr>
+</table>
 
 ---
 
