@@ -1,4 +1,4 @@
-name: 🐍 Generate Contribution Snake
+name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -6,13 +6,10 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
-
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,7 +17,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -28,15 +24,14 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#8B5CF6&color_dots=#E9D5FF,#C4B5FD,#A78BFA,#8B5CF6,#6D28D9
             dist/github-snake-dark.svg?color_snake=#A855F7&color_dots=#2E1065,#4C1D95,#6D28D9,#7C3AED,#A855F7
-
       - name: Push SVGs to output branch
         run: |
           cd dist
-          rm -rf .git        # ← this is the key fix
+          rm -rf .git
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b output
           git add .
-          git commit -m "chore: update snake animation 🐍"
+          git commit -m "chore: update snake animation"
           git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
