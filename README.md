@@ -130,9 +130,13 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ## 💬 AI Quote of the Day
 
-<blockquote style="color: #9b30ff; font-style: italic; border-left: 3px solid #9b30ff; padding-left: 10px;">
-  "Work until your model limit is exhausted." ~Abdul Rahman Azam
-</blockquote>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,50:3B0764,100:4C1D95&height=2&section=header&width=100"/>
+
+<!-- QUOTE_START -->
+> *"The future belongs to those who can orchestrate intelligence — not just consume it."*
+<!-- QUOTE_END -->
+
+<p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,50:6D28D9,100:7C3AED&height=3&section=header"/>
 
