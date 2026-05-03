@@ -133,7 +133,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,50:3B0764,100:4C1D95&height=2&section=header&width=100"/>
 
 <!-- QUOTE_START -->
-> *"Multi-agent systems are the new microservices: composable, specialised, and collectively unstoppable."*
+> *"The real question is not whether machines think but whether men do."* — **B.F. Skinner**
 <!-- QUOTE_END -->
 
 <p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
