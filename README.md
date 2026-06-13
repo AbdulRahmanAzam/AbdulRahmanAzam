@@ -133,7 +133,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,50:3B0764,100:4C1D95&height=2&section=header&width=100"/>
 
 <!-- QUOTE_START -->
-> *"Ship slow agents, lose the market. Ship fast agents with no guardrails, lose the trust. Find the balance."*
+> *"The question is not whether intelligent machines can have emotions, but whether machines without emotions can be truly intelligent."* — **Marvin Minsky**
 <!-- QUOTE_END -->
 
 <p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
