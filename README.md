@@ -133,7 +133,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,50:3B0764,100:4C1D95&height=2&section=header&width=100"/>
 
 <!-- QUOTE_START -->
-> *"Intelligence is the ability to adapt to change."* — **Stephen Hawking**
+> *"The measure of an AI agent isn't its token count — it's the real-world task it actually completes."*
 <!-- QUOTE_END -->
 
 <p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
