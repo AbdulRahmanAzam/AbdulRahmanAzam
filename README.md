@@ -133,7 +133,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,50:3B0764,100:4C1D95&height=2&section=header&width=100"/>
 
 <!-- QUOTE_START -->
-> *"The measure of an AI agent isn't its token count — it's the real-world task it actually completes."*
+> *"A well-engineered system prompt is worth more than a thousand fine-tuning steps."*
 <!-- QUOTE_END -->
 
 <p align="right"><sub>↻ Refreshed daily by AI · <a href=".github/workflows/update-quote.yml">workflow</a></sub></p>
