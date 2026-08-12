@@ -103,6 +103,28 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 ---
 
+## Awards
+
+| Placement | Competition | Host | Date |
+|---|---|---|---|
+| 🏆 **Winner** | Iterate '26 | Salim Habib University | Apr 2026 |
+| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 🥉 3rd Place | Competitive Programming '25 | Coders Cup | Oct 2025 |
+
+---
+
+
+
 ## 🌟 Featured Projects
 
 | Project | Description | Stack | Links |
