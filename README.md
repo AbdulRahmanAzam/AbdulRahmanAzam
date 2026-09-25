@@ -49,6 +49,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 | | |
 |:---|:---|
 | 🎓 **Education** | AI @ FAST-NUCES · Class of 2027 |
+| 🚀 **Founder** | [AI Season](https://aiseason.tech) — live AI agents bootcamp in Urdu + English |
 | 🤖 **Primary Focus** | AI Agents · MCP Servers · Agentic Pipelines |
 | 🌐 **Stack** | MERN + Python + TypeScript — deployment-first |
 | 🧩 **Approach** | Tool-use · RAG · Multi-agent orchestration |
