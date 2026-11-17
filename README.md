@@ -108,6 +108,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 | Placement | Competition | Host | Date |
 |---|---|---|---|
+| 🏆 **Winner** | Agento Workflow | Agento Gauntlet Global | Nov 2026 |
 | 🏆 **Winner** | Iterate '26 | Salim Habib University | Apr 2026 |
 | 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
 | 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
@@ -121,6 +122,8 @@ I take a product-first approach: ship working AI-integrated products with clean 
 | 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
 | 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
 | 🥉 3rd Place | Competitive Programming '25 | Coders Cup | Oct 2025 |
+| 🥉 3rd Place | Idea Verse | Iqra University | Nov 2026 |
+
 
 ---
 
